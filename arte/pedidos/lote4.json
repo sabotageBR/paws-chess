@@ -1,0 +1,72 @@
+[
+ {
+  "id": "fundo-madeira",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style and colors of the reference image, draw an empty background scene with NO characters, NO animals, NO chess pieces and NO chessboard: a cozy living room at night seen from a low angle: a big wooden table in the foreground center left empty (nothing on it), warm lamp light, bookshelves, a sleeping armchair with a blanket, framed paw-print paintings without text, a window with a starry night. Wide 16:9 composition, nothing important in the middle, soft focus far background. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-jardim",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style and colors of the reference image, draw an empty background scene with NO characters, NO animals, NO chess pieces and NO chessboard: a sunny backyard garden: green lawn in the center left empty, flower beds, a small wooden fence, a doghouse and a cat tree in the far background, butterflies, blue sky with soft clouds. Wide 16:9 composition, nothing important in the middle, soft focus far background. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-doceria",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style and colors of the reference image, draw an empty background scene with NO characters, NO animals, NO chess pieces and NO chessboard: a whimsical candy shop interior: pastel shelves full of jars of sweets and cupcakes, a big counter in the center left empty, lollipop lamps, striped awning, warm light. Wide 16:9 composition, nothing important in the middle, soft focus far background. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-telhado",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style and colors of the reference image, draw an empty background scene with NO characters, NO animals, NO chess pieces and NO chessboard: rooftops of a small town at night under a big friendly full moon: chimneys, tiled roofs, a flat rooftop terrace in the center left empty, string lights, stars, deep purple sky. Wide 16:9 composition, nothing important in the middle, soft focus far background. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "fundo-praia",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style and colors of the reference image, draw an empty background scene with NO characters, NO animals, NO chess pieces and NO chessboard: a sunny beach: smooth sand in the center left empty, turquoise sea, a striped beach umbrella and a sandcastle on the sides, palm tree, seagull, bright sky. Wide 16:9 composition, nothing important in the middle, soft focus far background. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "textura-madeira",
+  "modo": "gerar",
+  "aspecto": "1:1",
+  "prompt": "A seamless tileable flat top-down texture filling the whole square image edge to edge: light maple wood planks with soft simple grain lines. Even flat lighting, no shadows, no objects, no border, no perspective, no vignette, cartoon game texture with flat colors and simple shapes, no text, no letters, no logo, no watermark."
+ },
+ {
+  "id": "textura-jardim",
+  "modo": "gerar",
+  "aspecto": "1:1",
+  "prompt": "A seamless tileable flat top-down texture filling the whole square image edge to edge: short mowed green grass with tiny simple blade strokes. Even flat lighting, no shadows, no objects, no border, no perspective, no vignette, cartoon game texture with flat colors and simple shapes, no text, no letters, no logo, no watermark."
+ },
+ {
+  "id": "textura-doceria",
+  "modo": "gerar",
+  "aspecto": "1:1",
+  "prompt": "A seamless tileable flat top-down texture filling the whole square image edge to edge: creamy vanilla wafer biscuit with a soft simple grid pattern. Even flat lighting, no shadows, no objects, no border, no perspective, no vignette, cartoon game texture with flat colors and simple shapes, no text, no letters, no logo, no watermark."
+ },
+ {
+  "id": "textura-telhado",
+  "modo": "gerar",
+  "aspecto": "1:1",
+  "prompt": "A seamless tileable flat top-down texture filling the whole square image edge to edge: grey slate stone tiles with simple rounded edges. Even flat lighting, no shadows, no objects, no border, no perspective, no vignette, cartoon game texture with flat colors and simple shapes, no text, no letters, no logo, no watermark."
+ },
+ {
+  "id": "textura-praia",
+  "modo": "gerar",
+  "aspecto": "1:1",
+  "prompt": "A seamless tileable flat top-down texture filling the whole square image edge to edge: smooth light beach sand with tiny simple speckles. Even flat lighting, no shadows, no objects, no border, no perspective, no vignette, cartoon game texture with flat colors and simple shapes, no text, no letters, no logo, no watermark."
+ }
+]

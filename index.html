@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>Paws Chess</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="src/ui/kit.css">
+<link rel="stylesheet" href="src/ui/jogo.css">
+<!-- SDK do portal (a unica tag externa; o tools/empacotar.mjs troca a linha de baixo por alvo). -->
+<script src="/sdk/v1/plataforma-sdk.js"></script>
+</head>
+<body>
+<div id="carregando" role="status"><div><div class="logo">Paws Chess</div><div class="barra"><i></i></div></div></div>
+<div id="palco"><canvas id="tela"></canvas></div>
+<div id="camada">
+  <div id="hudBot" class="hud">
+    <div class="foto"><img id="botFoto" alt=""></div>
+    <div class="info"><b id="botNome"></b><small id="botSub"></small><div id="comidasBot" class="comidas"></div></div>
+    <div id="balao" class="balao" hidden></div>
+  </div>
+  <div id="hudJog" class="hud">
+    <div class="info"><b id="jogNome"></b><small id="jogSub"></small><div id="comidasJog" class="comidas"></div></div>
+  </div>
+  <div id="botoes">
+    <button id="btDica" class="botao-icone redondo" type="button" data-t-aria="dica"><span class="ic">💡</span><span id="nDicas" class="contador">3</span></button>
+    <button id="btDesfazer" class="botao-icone redondo" type="button" data-t-aria="desfazer"><span class="ic">↶</span></button>
+    <button id="btPausa" class="botao-icone redondo" type="button" data-t-aria="menu"><span class="ic">☰</span><i id="pontoMenu" class="ponto" hidden></i></button>
+  </div>
+  <div id="aviso" class="aviso" hidden></div>
+</div>
+<div id="promocao" class="camada-ui tela" hidden>
+  <div class="painel"><h2 data-t="promover">Promote to:</h2><div id="promoOpcoes" class="promo-opcoes"></div></div>
+</div>
+<div id="menu" class="camada-ui tela" hidden>
+  <div class="painel" role="dialog" aria-modal="true" aria-labelledby="menuTitulo">
+    <h2 id="menuTitulo" data-t="pausa">Paused</h2>
+    <button id="btContinuar" class="botao forte" type="button" data-t="continuar">Continue</button>
+    <button id="btModos" class="botao" type="button" data-t="novoJogo">Game modes</button>
+    <button id="btSom" class="botao" type="button" aria-pressed="true" data-t="som">Sound</button>
+    <button id="btGags" class="botao" type="button" aria-pressed="true" data-t="capturasEngracadas">Funny captures</button>
+    <button id="btGirar" class="botao" type="button" aria-pressed="true" data-t="girar">Rotate</button>
+  </div>
+</div>
+<div id="modos" class="camada-ui tela" hidden>
+  <div class="painel largo rolavel" role="dialog" aria-modal="true">
+    <h2 data-t="novoJogo">Game modes</h2>
+    <div class="cartoes">
+      <button id="mEscada" class="cartao" type="button"><img id="mEscadaFoto" alt=""><b data-t="escada">Ladder</b><small id="mEscadaSub"></small></button>
+      <button id="mLivre" class="cartao" type="button"><img src="src/arte/pecas/g-cavalo-parado.webp" alt=""><b data-t="livre">Free play</b><small data-t="livreSub"></small></button>
+      <button id="m2j" class="cartao" type="button"><img src="src/arte/pecas/c-rei-parado.webp" alt=""><b data-t="doisJogadores">2 players</b><small data-t="doisSub"></small></button>
+      <button id="mPuzzle" class="cartao" type="button"><img src="src/arte/gags/torta.webp" alt=""><b data-t="puzzle">Daily puzzle</b><small id="mPuzzleSub"></small></button>
+    </div>
+    <h3 data-t="tabuleiros">Boards</h3>
+    <div id="listaTab" class="lista-tab"></div>
+    <h3 data-t="gags">Capture gags</h3>
+    <div id="listaGags" class="lista-gags"></div>
+    <button id="btFecharModos" class="botao" type="button" data-t="voltar">Back</button>
+  </div>
+</div>
+<div id="livre" class="camada-ui tela" hidden>
+  <div class="painel largo rolavel" role="dialog" aria-modal="true">
+    <h2 data-t="livre">Free play</h2>
+    <div id="listaBots" class="lista-bots"></div>
+    <div class="lado"><span data-t="voceJoga">You play as</span>
+      <button id="ladoGatos" class="chip" type="button" data-t="ladoGatos">Cats</button>
+      <button id="ladoCaes" class="chip" type="button" data-t="ladoCaes">Dogs</button>
+    </div>
+    <button id="btJogarLivre" class="botao forte" type="button" data-t="jogar">Play!</button>
+    <button id="btFecharLivre" class="botao" type="button" data-t="voltar">Back</button>
+  </div>
+</div>
+<div id="fim" class="camada-ui tela fim" hidden>
+  <div class="painel">
+    <h2 id="fimTitulo"></h2>
+    <p id="fimSub" class="miudo"></p>
+    <div id="fimNovidade" class="novidade" hidden></div>
+    <button id="btProxima" class="botao forte" type="button"></button>
+    <button id="btBonus" class="botao" type="button" hidden>+3</button>
+    <button id="btFimMenu" class="botao discreto" type="button" data-t="novoJogo">Game modes</button>
+  </div>
+</div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>

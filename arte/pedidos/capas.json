@@ -1,0 +1,26 @@
+[
+ {
+  "id": "thumb",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-1x1.jpg"
+  ],
+  "prompt": "Recompose the reference into one bold square game thumbnail in the same art style and with the same characters: big and close, the chubby orange tabby cat king with gold crown and teal cape, standing on its round teal chess base, swings a giant yellow squeaky rubber mallet at a shocked chocolate puppy pawn with a round red helmet on its red base, cartoon stars and a little cream pie splash flying, on the corner of a wooden chessboard with big clear light and dark squares, deep purple night background with warm bokeh. One clear funny moment, large readable shapes, strong silhouette, warm orange and purple colors. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "capa-16x9",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Turn this into one seamless wide 16:9 game cover in the same art style and with the same characters: the chessboard battle of cute cats (teal bases) against cute dogs with floppy ears (red bases) fills the RIGHT 55 percent of the image, with the kitten pawn bonking the puppy pawn with the squeaky mallet and a cream pie flying; the LEFT 45 percent is calm open deep purple night sky with soft warm bokeh and nothing important (space for a title). No blur on the characters. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "capa-9x16",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/ref-9x16.jpg"
+  ],
+  "prompt": "Turn this into one seamless tall 9:16 game cover in the same art style and with the same characters: in the lower 60 percent a wooden chessboard seen from above at an angle with the orange cat king on a teal base bonking a shocked puppy pawn on a red base with a squeaky rubber mallet, other cat and dog chess pieces around cheering; the TOP 35 percent is calm open deep purple night sky with soft warm bokeh and nothing important (space for a title). STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ }
+]

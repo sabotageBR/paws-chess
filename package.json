@@ -1,0 +1,28 @@
+{
+  "name": "paws-chess",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Paws Chess: xadrez completo de gatos contra caes, com capturas pastelao, 10 bots com falas e puzzle do dia. Poki, CrazyGames, californiagames.io e Y8.",
+  "type": "module",
+  "config": {
+    "porta": 5480
+  },
+  "kit": {
+    "trocas": {},
+    "ids": {
+      "y8": {
+        "appId": "6b00db1757cef42fd622d83d",
+        "gameId": "294569"
+      }
+    }
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "servir": "node tools/servir.mjs",
+    "lan": "node tools/servir.mjs --lan",
+    "empacotar": "npm test && node tools/empacotar.mjs --alvo=todos",
+    "verificar": "node tools/verificar-build.mjs --alvo=todos",
+    "grok": "node tools/grok.mjs",
+    "sprite": "node tools/sprite.mjs"
+  }
+}

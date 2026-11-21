@@ -1,0 +1,10 @@
+[
+  { "nome": "jardim", "tamanho": "paisagem", "params": "novo&fase=3&auto&lang=en&semente=5", "esperar": 9000 },
+  { "nome": "telhado", "tamanho": "paisagem", "params": "novo&fase=7&auto&lang=en&semente=2", "esperar": 10000 },
+  { "nome": "primeira-captura", "tamanho": "paisagem", "params": "novo&lang=en&semente=3", "esperar": 1800, "js": "__jogo.jogarUci('e2e4')" },
+  { "nome": "puzzle", "tamanho": "retrato", "params": "novo&modo=puzzle&lang=en", "esperar": 2000 },
+  { "nome": "doceria", "tamanho": "retrato", "params": "novo&fase=5&auto&lang=en&semente=8", "esperar": 9000 },
+  { "nome": "praia", "tamanho": "paisagem", "params": "novo&fase=9&auto&lang=en&semente=4", "esperar": 9000 },
+  { "nome": "vitoria", "tamanho": "retrato", "params": "novo&fase=2&lang=en", "esperar": 3200, "js": "__jogo.vencer()" },
+  { "nome": "modos", "tamanho": "paisagem", "params": "novo&fase=6&lang=en", "esperar": 1500, "js": "__jogo.abrirModos()" }
+]

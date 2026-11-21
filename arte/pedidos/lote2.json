@@ -1,0 +1,42 @@
+[
+ {
+  "id": "pecas-gatos",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style of the reference image, draw a character sheet of the six CAT chess pieces: a 3x2 grid of 6 separate full-body characters, each standing on its own round chess-piece base, all facing the viewer in a three-quarter view, same size, evenly spaced with wide empty space between them, every character fully visible and not touching the others. Top row left to right: (1) KING: a chubby orange tabby cat with a gold crown topped by a small cross and a teal cape with white fur trim, on a teal base; (2) QUEEN: an elegant cream cat with a tall pointed gold tiara, a pearl necklace and a teal gown, on a teal base; (3) ROOK: a grumpy ginger cat peeking out of a cardboard box shaped like a castle tower with square crenellations on top, on a teal base. Bottom row left to right: (4) BISHOP: a cream cat with a tall teal-and-white mitre hat with a slit in the middle, on a teal base; (5) KNIGHT: a cream cat riding a wooden hobby horse with a teal bridle, on a teal base; (6) PAWN: a tiny cream kitten with a round teal helmet, on a teal base. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pecas-caes",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style of the reference image, draw a character sheet of the six DOG chess pieces, all clearly dogs with floppy ears and dog snouts: a 3x2 grid of 6 separate full-body characters, each standing on its own round chess-piece base, all facing the viewer in a three-quarter view, same size, evenly spaced with wide empty space between them, every character fully visible and not touching the others. Top row left to right: (1) KING: a grumpy chocolate-brown bulldog with a gold crown topped by a small cross and a tomato-red cape with white fur trim, on a red base; (2) QUEEN: an elegant charcoal-grey poodle with a tall pointed gold tiara, a pearl necklace and a red gown, on a red base; (3) ROOK: a beagle peeking out of a wooden doghouse shaped like a castle tower with square crenellations on top, on a red base. Bottom row left to right: (4) BISHOP: a basset hound with long floppy ears and a tall red-and-white mitre hat with a slit in the middle, on a red base; (5) KNIGHT: a chocolate dachshund riding a wooden hobby horse with a red bridle, on a red base; (6) PAWN: a tiny chocolate puppy with floppy ears and a round red helmet, on a red base. isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "bots-1",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style of the reference image, draw six funny animal opponent portraits: a 3x2 grid of 6 separate head-and-shoulders busts facing the viewer, same size, evenly spaced with wide empty space between them. Top row: (1) a sleepy fluffy grey kitten in a striped nightcap, half-closed eyes, yawning, hugging a tiny pillow; (2) a messy golden retriever puppy with a sock in its mouth, tongue out, wild happy eyes; (3) an old white poodle grandma with round glasses, a knitted lilac shawl and hair curlers. Bottom row: (4) a dachshund with racing goggles on its forehead and a red scarf flying; (5) a chubby calico cat chef with a tall white chef hat holding a wooden spoon; (6) a pompous bulldog with a huge curled mustache, a monocle and a small top hat. isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "bots-2",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style of the reference image, draw four funny animal opponent portraits: a 2x2 grid of 4 separate head-and-shoulders busts facing the viewer, same size, evenly spaced with wide empty space between them. Top row: (1) a smart pug with big round glasses and a black graduation cap, holding a teacher pointer stick; (2) a dramatic husky wolf-dog with a flowing purple cape and a crescent moon pendant, proud pose. Bottom row: (3) an elegant hairless sphynx cat duchess with a jeweled tiara and pearl earrings, sly half smile; (4) an old wise shaggy grey-and-white sheepdog grandmaster with long white eyebrows, tiny round glasses and a cozy brown cardigan, holding a small chess pawn. isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "gags",
+  "modo": "editar",
+  "imagens": [
+   "arte/escolhida/chave.jpg"
+  ],
+  "prompt": "Using exactly the art style of the reference image, draw nine separate cartoon slapstick props: a 3x3 grid of 9 separate objects, same size, evenly spaced with wide empty space between them, nothing touching. Top row: (1) a cream pie with whipped cream on a tin plate; (2) a big squeaky rubber mallet with a yellow head and red stripe; (3) a yellow banana peel. Middle row: (4) a fluffy white feather pillow; (5) a yellow rubber chicken; (6) a metal bucket full of splashing blue water. Bottom row: (7) a pepper shaker puffing a little cloud; (8) a bunch of cartoon dizzy stars in a ring; (9) a yellow cartoon impact burst shape with jagged points and no text. isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ }
+]

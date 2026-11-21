@@ -1,0 +1,74 @@
+[
+ {
+  "id": "pose-gatos-salto",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/pecas-gatos.jpg"
+  ],
+  "prompt": "Redraw exactly the same six characters from the reference sheet, same costumes, same colors, same order and same grid positions, same size, each still on its own round base, but now each one hopping happily in mid-air like a chess piece jumping to a new square: the round base lifted together with the character, body stretched upward, ears and cape fluttering, joyful open-mouth smile. Keep wide empty space between them and nothing touching. Isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pose-gatos-ataque",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/pecas-gatos.jpg"
+  ],
+  "prompt": "Redraw exactly the same six characters from the reference sheet, same costumes, same colors, same order and same grid positions, same size, each still on its own round base, but now each one charging forward to attack in a funny battle pose: leaning forward toward the right, one paw raised high ready to bonk, determined silly face with gritted teeth, still standing on its base. Keep wide empty space between them and nothing touching. Isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pose-gatos-apanhando",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/pecas-gatos.jpg"
+  ],
+  "prompt": "Redraw exactly the same six characters from the reference sheet, same costumes, same colors, same order and same grid positions, same size, each still on its own round base, but now each one has just been bonked on the head: squashed down and tilted backward on its base, eyes squeezed shut in comic pain, tongue out, a small bump on the head, sweat drops. Keep wide empty space between them and nothing touching. Isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pose-gatos-vitoria",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/pecas-gatos.jpg"
+  ],
+  "prompt": "Redraw exactly the same six characters from the reference sheet, same costumes, same colors, same order and same grid positions, same size, each still on its own round base, but now each one celebrating a victory: both paws raised high in the air, eyes closed happily, huge grin, little bounce, still standing on its base. Keep wide empty space between them and nothing touching. Isolated on a perfectly flat solid magenta (#FF00FF) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pose-caes-salto",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/pecas-caes.jpg"
+  ],
+  "prompt": "Redraw exactly the same six characters from the reference sheet, same costumes, same colors, same order and same grid positions, same size, each still on its own round base, but now each one hopping happily in mid-air like a chess piece jumping to a new square: the round base lifted together with the character, body stretched upward, ears and cape fluttering, joyful open-mouth smile. Keep wide empty space between them and nothing touching. Isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pose-caes-ataque",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/pecas-caes.jpg"
+  ],
+  "prompt": "Redraw exactly the same six characters from the reference sheet, same costumes, same colors, same order and same grid positions, same size, each still on its own round base, but now each one charging forward to attack in a funny battle pose: leaning forward toward the right, one paw raised high ready to bonk, determined silly face with gritted teeth, still standing on its base. Keep wide empty space between them and nothing touching. Isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pose-caes-apanhando",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/pecas-caes.jpg"
+  ],
+  "prompt": "Redraw exactly the same six characters from the reference sheet, same costumes, same colors, same order and same grid positions, same size, each still on its own round base, but now each one has just been bonked on the head: squashed down and tilted backward on its base, eyes squeezed shut in comic pain, tongue out, a small bump on the head, sweat drops. Keep wide empty space between them and nothing touching. Isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "pose-caes-vitoria",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/pecas-caes.jpg"
+  ],
+  "prompt": "Redraw exactly the same six characters from the reference sheet, same costumes, same colors, same order and same grid positions, same size, each still on its own round base, but now each one celebrating a victory: both paws raised high in the air, eyes closed happily, huge grin, little bounce, still standing on its base. Keep wide empty space between them and nothing touching. Isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no ground, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ },
+ {
+  "id": "bot-pantufa",
+  "modo": "editar",
+  "imagens": [
+   "arte/bruto/bots-1.jpg"
+  ],
+  "prompt": "Using exactly the art style of the reference image, draw one single head-and-shoulders portrait, centered, facing the viewer: an old grandma POODLE DOG (an animal, not a human) with fluffy white curly dog fur, a dog snout with a black nose and floppy curly dog ears, round glasses, a knitted lilac shawl and three pink hair curlers, kind smile. Isolated on a perfectly flat solid pure green (#00FF00) background, no shadow, no gradient, no text. STYLE: clean 2D cartoon game art for a family board game, bold uniform dark brown outlines, flat saturated colors with simple two-tone cel shading, soft light from the upper left, chunky toy-like proportions with big heads and small bodies, cute expressive faces, no realistic fur, no painterly texture, no 3D render look, no text, no letters, no numbers, no logo, no watermark, no signature."
+ }
+]
